@@ -3,3 +3,5 @@
 #XGBOOST
 #ENSEMBLE
 #RANDOMFORESTree
+
+<a>https://github.com/vinayakmathur/ML_Consumer_churn_model/blob/main/Figure_1_consumerchurn_EDA.tif</a>
